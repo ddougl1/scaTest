@@ -3,3 +3,5 @@
 ################################################################################
 
 /scaTest/bin/Debug/netcoreapp3.1
+/scaTest/obj
+/scaTest/.vs/scaTest/v16
